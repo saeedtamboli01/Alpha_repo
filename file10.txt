@@ -1,0 +1,10 @@
+File 10 - Git Summary
+1. Git is distributed version control.
+2. It supports branching and merging.
+3. Commits record project history.
+4. GitHub hosts remote repositories.
+5. Collaboration happens via pull requests.
+6. Staging organizes changes before committing.
+7. Merge and rebase manage history.
+8. Stash saves temporary work.
+9. Git is essential for modern development.
