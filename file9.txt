@@ -1,0 +1,10 @@
+File 9 - Git Collaboration
+1. Teams collaborate using GitHub.
+2. Each developer clones the repository.
+3. They create branches for new work.
+4. Commits are pushed to remote repo.
+5. Pull requests allow code reviews.
+6. Feedback improves code quality.
+7. Git tracks contributors automatically.
+8. Collaboration is transparent and efficient.
+9. Git + GitHub = teamwork success.
