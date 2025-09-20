@@ -1,2 +1,10 @@
-hello world.......!
-i am here now budyy.
+File 1 - Git Basics
+1. Git is a version control system.
+2. It helps track changes in code.
+3. GitHub is a remote repository platform.
+4. You can create commits in Git.
+5. Each commit has a unique ID (hash).
+6. Commits store snapshot of changes.
+7. Git makes teamwork easier.
+8. You can roll back to previous commits.
+9. Git is widely used in software development.
