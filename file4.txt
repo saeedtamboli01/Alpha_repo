@@ -1,0 +1,10 @@
+File 4 - Git Remote
+1. GitHub stores repositories online.
+2. Remote repositories enable collaboration.
+3. 'git remote -v' shows linked remotes.
+4. 'git push' sends changes to GitHub.
+5. 'git pull' brings updates from remote.
+6. 'git fetch' downloads changes but doesn’t merge.
+7. Developers often fork repositories.
+8. Pull requests are used to suggest changes.
+9. GitHub makes teamwork seamless.
