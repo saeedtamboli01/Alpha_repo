@@ -1,0 +1,10 @@
+File 8 - Git Stash
+1. Git stash saves uncommitted changes.
+2. 'git stash' hides changes temporarily.
+3. 'git stash pop' restores changes.
+4. It helps when switching branches quickly.
+5. Multiple stashes can be stored.
+6. 'git stash list' shows saved stashes.
+7. 'git stash apply' re-applies a stash.
+8. Stash keeps workspace clean.
+9. Stash is useful during experiments.
