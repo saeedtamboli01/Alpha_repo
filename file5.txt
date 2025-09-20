@@ -1,0 +1,10 @@
+File 5 - Git Staging
+1. Git uses a staging area before committing.
+2. 'git add file.txt' moves file to staging.
+3. 'git status' shows staged and unstaged files.
+4. Staging allows partial commits.
+5. You can unstage with 'git reset file.txt'.
+6. Staging helps organize commits.
+7. Large changes can be split logically.
+8. This improves commit clarity.
+9. Staging is like a checklist before committing.
