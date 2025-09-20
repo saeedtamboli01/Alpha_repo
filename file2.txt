@@ -1,0 +1,11 @@
+File 2 - Git Branching
+1. Branches allow parallel development.
+2. The default branch is usually 'main' or 'master'.
+3. New features are developed in separate branches.
+4. Branches can be merged back to main.
+5. Conflicts may occur during merging.
+6. Git provides tools to resolve conflicts.
+7. Branching keeps the main code stable.
+8. Developers can work independently.
+9. Branching is lightweight in Git.
+10.done.
