@@ -1,0 +1,10 @@
+File 6 - Git Merge
+1. Merging combines changes from branches.
+2. 'git merge branchname' merges into current branch.
+3. Fast-forward merge happens if no conflict.
+4. Conflicts occur when same file lines differ.
+5. Git marks conflict areas in code.
+6. Developers manually resolve conflicts.
+7. After resolving, commit the merge.
+8. Git history shows merge commits.
+9. Merging ensures new features reach main branch.
