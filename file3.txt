@@ -1,0 +1,10 @@
+File 3 - Git Commits
+1. A commit is like a save point in Git.
+2. It stores project changes with metadata.
+3. Each commit includes author and timestamp.
+4. A good commit has a meaningful message.
+5. Small commits are easier to manage.
+6. Commits help track project history.
+7. You can revert a commit if needed.
+8. Commits create a timeline of progress.
+9. Git log shows all commit history.
