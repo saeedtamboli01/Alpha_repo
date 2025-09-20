@@ -1,0 +1,10 @@
+File 7 - Git Rebase
+1. Rebase rewrites commit history.
+2. It makes history linear and clean.
+3. 'git rebase main' updates feature branch.
+4. Rebase avoids unnecessary merge commits.
+5. Use rebase carefully to avoid issues.
+6. Never rebase shared public branches.
+7. Rebase is powerful for private work.
+8. It simplifies reviewing project history.
+9. Rebase vs merge depends on workflow.
